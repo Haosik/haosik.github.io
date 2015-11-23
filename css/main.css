@@ -922,6 +922,7 @@ header {
 
 .copyright {
     display: inline-block;
+    float: right;
     vertical-align: top;
     width: 253px;
     height: 333px;
