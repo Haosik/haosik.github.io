@@ -487,6 +487,10 @@ header {
     text-decoration: underline;
 }
 
+.interv-det a:hover {
+    text-decoration: underline;
+}
+
 .interv-det a:visited {
     color: #2f81c9;
 }
