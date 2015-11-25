@@ -488,7 +488,7 @@ header {
 }
 
 .interv-det a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .interv-det a:visited {
