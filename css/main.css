@@ -615,6 +615,9 @@ header {
     font-style: italic;
     text-decoration: underline;
 }
+.news a:hover {
+    text-decoration: none;
+}
 
 .news-pic {
     display: block;
