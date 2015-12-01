@@ -1,2 +1,2 @@
 # temp
-Just a temp repository for eveything
+Just a temp repository for everything
