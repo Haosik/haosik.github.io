@@ -441,6 +441,9 @@ header {
     background: url(../img/regi-banner.png);
 }
 
+.registr:hover {
+    opacity: .8;
+}
 .registr a {
     content: "";
     display: block;
