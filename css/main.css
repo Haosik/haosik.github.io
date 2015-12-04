@@ -57,7 +57,7 @@ textarea {
    ========================================================================== */
 
 body {
-    font: 13px/20px "Trebuchet MS", sans-serif, Arial;
+    font: 13px/20px "Trebuchet MS", Arial, sans-serif;
     height: 100%;
 }
 
@@ -212,7 +212,6 @@ header {
 .acc-link {
     display: inline-block;
     color: #3492e3;
-    font-family: "Trebuchet MS";
     font-size: 12px;
     text-decoration: underline;
 }
@@ -247,7 +246,7 @@ header {
     border-radius: 5px;
     height: 40px;
     width: auto;
-    margin-right: 7px;
+    margin-right: 12px;
     line-height: 2em;
     padding: 0 0;
 }
@@ -258,7 +257,6 @@ header {
     width: 100%;
     border: 1px solid transparent;
     color: #000;
-    font-family: "Trebuchet MS";
     font-size: 16px;
     text-shadow: 0 1px 0 rgba(0, 0, 0, .04);
     line-height: 2.2em;
@@ -424,7 +422,6 @@ header {
     height: 30px;
     margin: 0;
     color: #32393f;
-    font-family: "Trebuchet MS";
     font-size: 14px;
     text-decoration: none;
 }
@@ -461,7 +458,6 @@ header {
 
 .interv-title p {
     color: #32393f;
-    font-family: "Trebuchet MS";
     font-size: 14px;
     font-style: italic;
     margin: 0;
@@ -502,7 +498,6 @@ header {
     height: 85px;
     margin-left: 13px;
     border-top: 2px dashed #dceaf5;
-    font-family: "Trebuchet MS";
     line-height: 1em;
 }
 
@@ -585,7 +580,6 @@ header {
 
 .news h4 a {
     color: #373f47;
-    font-family: "Trebuchet MS";
     font-size: 20px;
     font-style: normal;
     text-decoration: none;
@@ -612,7 +606,6 @@ header {
 
 .news a {
     color: #3f8fd7;
-    font-family: "Trebuchet MS";
     font-size: 12px;
     font-style: italic;
     text-decoration: underline;
